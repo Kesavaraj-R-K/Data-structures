@@ -3,8 +3,8 @@ Write a C program to implement a Binary tree and perform the following tree trav
 (ii)	Preorder Traversal
 (iii)	Postorder Traversal
 
-  Algorithm:
-   CODE:-
+CODE:
+
    #include <stdio.h>
    #include <stdlib.h>
 struct Tree
